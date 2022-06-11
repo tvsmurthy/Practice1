@@ -1,0 +1,3 @@
+hello murthy, hi how are you....
+you are asked to write java code 
+finishit as soon as possible and submit
